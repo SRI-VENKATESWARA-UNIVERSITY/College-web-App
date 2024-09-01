@@ -3,7 +3,8 @@
     "default": "college-webapp",
     "app": "college-webapp",
     "clgwebapp": "college-webapp",
-    "clgapp": "college-webapp"
+    "clgapp": "college-webapp",
+    "APP": "college-webapp"
   },
   "targets": {},
   "etags": {},

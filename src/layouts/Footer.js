@@ -137,6 +137,7 @@ const Footer = () => {
                             color: "orange"
                         }}>SAI VIVEK CHANDIKA,</a>
                         <span>FULL STACK DEV</span>
+                        
                         <br/>
                         <a
                             href="https://www.linkedin.com/in/ssreedhargoud"
@@ -144,6 +145,15 @@ const Footer = () => {
                             color: "orange"
                         }}> S SREEDHAR GOUD,</a>
                         <span>FULL STACK DEV</span>
+                        <br/>
+
+                        <a
+                            href="https://www.linkedin.com/in/gowtham-t-168892258/"
+                            style={{
+                            color: "red"
+                        }}>T GOWTHAM SREE,</a>
+                        <span>FULL STACK DEV</span>
+                        
                         <br/>
                         
                         
