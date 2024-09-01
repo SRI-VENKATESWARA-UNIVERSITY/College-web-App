@@ -163,11 +163,11 @@ Power Electronic devices considering the environmental and societal needs.<br/>
                         </tr>
                         <tr>
                             <th>Chairman BOS(PG)</th>
-                            <td>Dr. Ch. Chengaiah</td>
+                            <td>Dr. T. Gowri Manoahar</td>
                         </tr>
                         <tr>
                             <th>Chairman BOS(UG)</th>
-                            <td>Prof. A. Lakshmi Devi</td>
+                            <td>Prof. M. Damodar Reddy</td>
                         </tr>
                     </tbody>
                 </Table>

@@ -76,15 +76,15 @@ const Ece = () => {
                         <tbody>
                             <tr>
                                 <th>HOD</th>
-                                <td>Prof. G. Umamaheswara Reddy</td>
+                                <td>Prof. S. Swarnalatha </td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(PG)</th>
-                                <td>Prof. G. Srinivasulu</td>
+                                <td>Prof. T. Ramashri</td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(UG)</th>
-                                <td>Prof. B. Anuradha</td>
+                                <td>Prof. G. Srinivasulu</td>
                             </tr>
                         </tbody>
                     </Table>

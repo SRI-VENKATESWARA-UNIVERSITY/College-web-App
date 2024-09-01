@@ -16,20 +16,21 @@ export const cseFaculty =[
     "Email" :"humera.svec@gmail.com",
     "Details" :"/cseFiles/Profile-MHK-21-7-2018.pdf"
 },
-,{
+{
+  "designation" : "Professor",
+  "Name" :"Dr. D. Vivekananda Reddy",
+  "Phone":"(+91)-9441005225, (+91)-7981269983",
+  "Email" :"svuvivek@gmail.com",
+  "Details" :"/cseFiles/Profile-DVR.pdf"  
+},
+{
     "designation" : "Associate Professor",
     "Name" :"Dr. N. Usha Rani",
     "Phone":"(+91)-9493564899",
     "Email" :"usharani.ur@gmail.com,  usha552@yahoo.com",
     "Details" :"/cseFiles/Profile-NUR.pdf"  
-}
-,{
-    "designation" : "Associate Professor",
-    "Name" :"Dr. D. Vivekananda Reddy",
-    "Phone":"(+91)-9441005225, (+91)-7981269983",
-    "Email" :"svuvivek@gmail.com",
-    "Details" :"/cseFiles/Profile-DVR.pdf"  
 },
+
 {
     "designation": "Academic Consultant",  
     "Name": "Dr. Suresh Kumar Reddy K",

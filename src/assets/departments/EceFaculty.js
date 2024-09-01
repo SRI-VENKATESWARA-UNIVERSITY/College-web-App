@@ -51,7 +51,7 @@ export const EceFaculty = [
     },
     {
         "designation" : "Professor",
-        "Name" :"Prof. T. Sreenivasulu Reddy",
+        "Name" :"Prof. T. Sreenivasulu Reddy (On Leave)",
         "Phone":"(+91)-9440415699",
         "Email" :"	mettu86@yahoo.co.in",
         "Details" :"/EceFiles/TSR Brief_CV edited_25-01-2017.pdf"

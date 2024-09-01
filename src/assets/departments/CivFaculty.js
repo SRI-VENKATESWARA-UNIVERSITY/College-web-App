@@ -1,12 +1,12 @@
 export const CivFaculty = [
     
-    {
-        "designation" : "Professor",
-        "Name" :"Prof. G.N. Pradeep Kumar (Retired on 30-06-2023)",
-        "Phone":"(+91)-9963069986",
-        "Email" :"	saignp@gmail.com",
-        "Details" :"/CivFiles/CIV_Prof_GNPradeepKumar.pdf"
-    },
+    // {
+    //     "designation" : "Professor",
+    //     "Name" :"Prof. G.N. Pradeep Kumar (Retired on 30-06-2023)",
+    //     "Phone":"(+91)-9963069986",
+    //     "Email" :"	saignp@gmail.com",
+    //     "Details" :"/CivFiles/CIV_Prof_GNPradeepKumar.pdf"
+    // },
     
     
 
@@ -53,6 +53,13 @@ export const CivFaculty = [
         "Details" :"/CivFiles/CIV_Dr_DVPrasadaRao.pdf"
     },
     {
+        "designation" : "Professor",
+        "Name" :"Dr. B. Madhusudhana Reddy",
+        "Phone":"	(+91)-9492657516",
+        "Email" :"	srinimasa@gmail.com",
+        "Details" :"/CivFiles/CIV_Sri_BMadhusudhanaReddy.pdf"
+    },
+    {
         "designation" : "Associate Professor",
         "Name" :"Dr. N. Munilakshmi",
         "Phone":"(+91)-9866437937",
@@ -66,15 +73,9 @@ export const CivFaculty = [
         "Email" :"aruna_jyothy@yahoo.co.in",
         "Details" :"/CivFiles/CIV_Smt_SArunaJyothy.pdf"
     },
+
     {
         "designation" : "Associate Professor",
-        "Name" :"Dr. B. Madhusudhana Reddy",
-        "Phone":"	(+91)-9492657516",
-        "Email" :"	srinimasa@gmail.com",
-        "Details" :"/CivFiles/CIV_Sri_BMadhusudhanaReddy.pdf"
-    },
-    {
-        "designation" : "Assistant Professor",
         "Name" :"Dr. T. Hemalatha",
         "Phone":"	(+91)-9640862212",
         "Email" :"t_hemalatha@yahoo.co.in",

@@ -1,5 +1,11 @@
 {
   "projects": {
-    "default": "college-webapp"
-  }
+    "default": "college-webapp",
+    "app": "college-webapp",
+    "clgwebapp": "college-webapp",
+    "clgapp": "college-webapp"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }

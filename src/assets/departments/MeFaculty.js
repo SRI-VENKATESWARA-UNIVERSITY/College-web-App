@@ -21,26 +21,27 @@ export const MeFaculty = [
         "Details" :"/MecFiles/MEC_Dr_VDiwakarReddy.pdf"
     },
     {
+      "designation" : "Professor",
+      "Name" :"Dr. K. Dharma Reddy",
+      "Phone":"(+91)-9494697899, (+91)-9493105099",
+      "Email" :"kdharmareddy@gmail.com",
+      "Details" :"/MecFiles/MEC_Mr_KDharmaReddy.pdf"
+  },
+  {
+      "designation" : "Professor",
+      "Name" :"Dr. P. Hema",
+      "Phone":"(+91)-9490247265, (+91)-877-2244201",
+      "Email" :"hema_pothur@yahoo.com",
+      "Details" :"/MecFiles/MEC_Ms_PHema.pdf"
+  },
+    {
         "designation" : "Associate Professor",
         "Name" :"Sri. K. Rajesh Babu",
         "Phone":"(+91)-877-2246602",
         "Email" :"kadirikotar2000@yahoo.com",
         "Details" :"/MecFiles/MEC_Dr_KRajeshBabu.pdf"
     },
-    {
-        "designation" : "Associate Professor",
-        "Name" :"Dr. K. Dharma Reddy",
-        "Phone":"(+91)-9494697899, (+91)-9493105099",
-        "Email" :"kdharmareddy@gmail.com",
-        "Details" :"/MecFiles/MEC_Mr_KDharmaReddy.pdf"
-    },
-    {
-        "designation" : "Associate Professor",
-        "Name" :"Dr. P. Hema",
-        "Phone":"(+91)-9490247265, (+91)-877-2244201",
-        "Email" :"hema_pothur@yahoo.com",
-        "Details" :"/MecFiles/MEC_Ms_PHema.pdf"
-    },
+
      {
         "designation" : "Associate Professor",
         "Name" :"Dr. A. Sreenivasulu Reddy",

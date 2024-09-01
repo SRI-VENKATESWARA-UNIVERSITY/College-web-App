@@ -50,13 +50,13 @@ export const SCFaculty = [
         "Email" :"NA",
         "Details" :"/SCfiles/"
     },
-    {
-        "designation" : "Academic Consultant(English)",
-        "Name" :"Dr.P.Pothan Prathap",
-        "Phone":"(+91)-8790712591",
-        "Email" :"pothanprathap@gmail.com",
-        "Details" :"/SCfiles/pothanprathap.pdf"
-    },
+    // {
+    //     "designation" : "Academic Consultant(English)",
+    //     "Name" :"Dr.P.Pothan Prathap",
+    //     "Phone":"(+91)-8790712591",
+    //     "Email" :"pothanprathap@gmail.com",
+    //     "Details" :"/SCfiles/pothanprathap.pdf"
+    // },
      {
         "designation" : "Academic Consultant(English)",
         "Name" :"Dr A Sreenivasulu",

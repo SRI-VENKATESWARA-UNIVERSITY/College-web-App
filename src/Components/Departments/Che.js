@@ -103,15 +103,15 @@ const Che=()=>{
     <tbody>
         <tr>
         <th>HOD</th>
-        <td>Dr. P. Akhila Swathantra</td>
+        <td>Dr. B. Sarath Babu</td>
     </tr>
     <tr>
         <th>Chairman BOS(PG)</th>
-        <td></td>
+        <td>Dr. P. Akhila Swathantra</td>
     </tr>
     <tr>
         <th>Chairman BOS(UG)</th>
-        <td></td>
+        <td>Dr. P. Akhila Swathantra</td>
     </tr>
     </tbody>
     </Table>

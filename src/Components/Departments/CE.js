@@ -101,15 +101,15 @@ const CE = () => {
                         <tbody>
                             <tr>
                                 <th>HOD</th>
-                                <td>Prof. D.V. Prasada Rao</td>
+                                <td>Prof. Ch. Sudha Rani </td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(PG)</th>
-                                <td> Prof. I.V. Ramana Reddy</td>
+                                <td> Prof. M. Srimurali</td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(UG)</th>
-                                <td>Prof. Ch. Sudha Rani</td>
+                                <td>Prof. D.V.Satyanarayana Moorthy</td>
                             </tr>
                         </tbody>
                     </Table>

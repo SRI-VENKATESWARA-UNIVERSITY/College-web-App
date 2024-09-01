@@ -37,7 +37,7 @@ export const EeeFaculty = [
         "Details" :"/EeeFiles/profile vur.docx"
     },
     {
-        "designation" : "Assistant Professor",
+        "designation" : "Associate Professor",
         "Name" :"Dr. J.N. ChandraSekhar",
         "Phone":"(+91)-9177177782",
         "Email" :"	chandu.jinka@gmail.com",
