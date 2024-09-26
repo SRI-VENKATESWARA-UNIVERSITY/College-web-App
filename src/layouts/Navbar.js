@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { Button } from "reactstrap";
 
-import { Syllabus_btech_18 } from "../assets/DBStatic/academics/syllabus_btech_18";
-import { Syllabus_btech_16 } from "../assets/DBStatic/academics/syllabus_btech_16";
+// import { Syllabus_btech_18 } from "../assets/DBStatic/academics/syllabus_btech_18";
+// import { Syllabus_btech_16 } from "../assets/DBStatic/academics/syllabus_btech_16";
 import { Syllabus_btech_20 } from "../assets/DBStatic/academics/syllabus_btech_20";
 import { Syllabus_mtech } from "../assets/DBStatic/academics/syllabus_mtech";
 const Navba = () => {
@@ -78,17 +78,15 @@ const Navba = () => {
                                             <li className="drop-down">
                                                 <a>B.Tech</a>
                                                 <ul>
-                                                    <li><a href="/academics/B.Tech.(CBCS) Regulations, 2018(R-2018).pdf">B.Tech.(CBCS) Regulations, 2018(R-2018)</a></li>
-                                                    <li ><a href="/academics/Modifications of BTech Regulations on Open Electives.pdf">Modifications of BTech Regulations on Open Electives</a></li>
-                                                    <li><a href="/academics/B.Tech Regulations ,2020(R-20).pdf">B.Tech Regulations ,2020(R-20)</a></li>
-                                                    <li><a href="/academics/regulations/SVUCE_Regulations_2010.pdf">SVUCE Regulations 2010</a></li>
+                                                    <li><a href="academics/regulations/B.Tech Modified Regulations 2020-21 (1).pdf">B.Tech Regulations ,2020(R-20)</a></li>
+                                                    <li><a href="academics/regulations/Swayam Course Adoption Booklet (1).pdf">NPTEL Domain Certifications</a></li>
                                                 </ul>
 
                                             </li>
                                             <li className="drop-down">
                                                 <a>M.Tech</a>
                                                 <ul>
-                                                    <li><a href="/academics/M.Tech (CBCS) Regulations,2018.pdf">M.Tech (CBCS) Regulations,2018</a></li>
+                                                    <li><a href="academics/regulations/M.Tech Regulations 2023 (1).pdf">M.Tech (CBCS) Regulations,2023</a></li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -99,7 +97,7 @@ const Navba = () => {
                                             <li className="drop-down">
                                                 <a>B.Tech</a>
                                                 <ul>
-                                                    <li className="drop-down">
+                                                    {/* <li className="drop-down">
                                                         <a > R-16 </a>
                                                         <ul>
                                                             {(Syllabus_btech_16).map((arb) => (
@@ -120,7 +118,7 @@ const Navba = () => {
                                                             ))}
                                                         </ul>
 
-                                                    </li>
+                                                    </li> */}
                                                     <li className="drop-down">
                                                         <a > R-20 </a>
                                                         <ul>
@@ -151,8 +149,35 @@ const Navba = () => {
                                             </li>
                                         </ul>
                                     </li>
-                                    <li >
-                                        <a href="/timetables">Time Tables</a>
+                                    <li className="drop-down">
+                                    {/* href="/timetables" */}
+                                        <a>Time Tables</a>
+                                        <ul>
+                                                    <li className="drop-down">
+                                                        <a >B.Tech</a>
+                                                        <ul>
+                                                                 <li><a href="/#">B.Tech 1st Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 2nd Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 3nd Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 4th Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 5th Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 6th Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 7th Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 8th Semester</a></li>
+                                                         </ul>
+                                                    </li>
+
+                                                    <li className="drop-down">
+                                                        <a >M.Tech</a>
+                                                            <ul>
+                                                                <li><a href="/#">B.Tech 1st Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 2nd Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 3nd Semester</a></li>
+                                                                 <li><a href="/#">B.Tech 4th Semester</a></li>
+                                                            </ul>
+                                                        
+                                                    </li>
+                                        </ul>
                                     </li>
                                 </ul>
                             </li>

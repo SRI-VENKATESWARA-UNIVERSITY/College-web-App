@@ -14,14 +14,14 @@ export const Syllabus_btech_20 = [
     }, {
         "BRANCH" : "ELECTRONICS AND COMMUNICATION ENGINEERING",
         "Filename": "ECE R20 SYLLABUS",
-        "location": "/academics/R 20-ECE Syllabus 2022-2023.pdf"
+        "location": "NA"
     }, {
         "BRANCH" : "MECHANICAL ENGINEERING",
         "Filename": "ME R20 SYLLABUS",
-        "location": "/academics/\\"
+        "location": "NA"
     }, {
         "BRANCH" : "COMPUTER SCIENCE AND ENGINEERING",
         "Filename": "CSE R20 SYLLABUS",
-        "location" :"/academics/R20 CSE Scheme and Syllabus Final.pdf"
+        "location" :"NA"
     }
 ]

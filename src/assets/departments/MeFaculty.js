@@ -1,7 +1,7 @@
 export const MeFaculty = [
     {
         "designation" : "Professor",
-        "Name" :"Dr. G. Bhanodaya Reddy",
+        "Name" :"Dr. G. Bhanodaya Reddy (Leave on loss of Pay)",
         "Phone":"(+91)-9848175066, (+91)-877-2288200",
         "Email" :"bhanodayareddy_svuce@yahoo.co.in",
         "Details" :"/MecFiles/MEC_Dr_GBhanodayaReddy.pdf"
@@ -22,7 +22,7 @@ export const MeFaculty = [
     },
     {
       "designation" : "Professor",
-      "Name" :"Dr. K. Dharma Reddy",
+      "Name" :"Dr. K. Dharma Reddy ",
       "Phone":"(+91)-9494697899, (+91)-9493105099",
       "Email" :"kdharmareddy@gmail.com",
       "Details" :"/MecFiles/MEC_Mr_KDharmaReddy.pdf"
