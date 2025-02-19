@@ -132,7 +132,7 @@ change.<br/>
                             <tbody>
                                 <tr>
                                     <th>HOD</th>
-                                    <td>Dr. V. Diwakar Reddy</td>
+                                    <td>Dr. P. Hema</td>
                                 </tr>
                                 <tr>
                                     <th>Chairman BOS(PG)</th>
@@ -140,7 +140,7 @@ change.<br/>
                                 </tr>
                                 <tr>
                                     <th>Chairman BOS(UG)</th>
-                                    <td>Sri K. Rajesh Babu</td>
+                                    <td>Dr. K. Dharma Reddy</td>
                                 </tr>
                             </tbody>
                         </Table>

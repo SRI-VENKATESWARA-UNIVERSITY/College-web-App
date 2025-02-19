@@ -159,7 +159,7 @@ Power Electronic devices considering the environmental and societal needs.<br/>
                     <tbody>
                         <tr>
                             <th>HOD</th>
-                            <td>Dr. Ch. Chengaiah</td>
+                            <td>Prof. G. Srinivasulu (Incharge Head) </td>
                         </tr>
                         <tr>
                             <th>Chairman BOS(PG)</th>
