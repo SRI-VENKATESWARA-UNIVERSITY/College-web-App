@@ -1,10 +1,10 @@
-import React, {useState} from "react"
-import {Button, Modal, ModalBody, ModalFooter,ModalHeader} from 'reactstrap';
+import React, { useState } from "react"
+import { Button, Modal, ModalBody, ModalFooter, ModalHeader } from 'reactstrap';
 
 const Footer = () => {
     const [modal, setModal] = useState(false);
 
-  const toggle = () => setModal(!modal);
+    const toggle = () => setModal(!modal);
     return (
         <div id="footer">
             <div className="footer-top">
@@ -14,14 +14,14 @@ const Footer = () => {
                             <h3>Sri Venkateswara University College of Engineering</h3>
                             <p>
                                 Sri Venkateswara University
-                                <br/>
-                                Tirupati, Andhra Pradesh - 517 502<br/>
+                                <br />
+                                Tirupati, Andhra Pradesh - 517 502<br />
                                 India
-                                <br/><br/>
+                                <br /><br />
                                 <strong>Phone:</strong>
-                                +91-877-2289561<br/>
+                                +91-877-2289561<br />
                                 <strong>Email:</strong>
-                                principal_svuce2003@yahoo.co.in<br/>
+                                principal_svuce2003@yahoo.co.in<br />
                             </p>
                         </div>
 
@@ -31,11 +31,17 @@ const Footer = () => {
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
                                     <a href="/">Home</a>
-                                </li>
-                                {/* <li>
+                                </li> <li>
                                     <i className="bx bx-chevron-right"></i>
-                                    <a href="academics.html">Academics</a>
-                                </li> */}
+                                    <a href="/about">About College</a>
+                                </li>
+
+                                <li>
+                                    <i className="bx bx-chevron-right"><a href="/principal">Principal</a></i>
+                                </li>
+                                <li>
+                                    <i className="bx bx-chevron-right"><a href="/viceprincipal">Vice Principal</a></i>
+                                </li>
                                 <li>
                                     <i className="bx bx-chevron-right"></i>
                                     <a href="/placements">Placements</a>
@@ -89,9 +95,9 @@ const Footer = () => {
                                 <span
                                     onClick={toggle}
                                     style={{
-                                    color: "red",
-                                    cursor: "pointer"
-                                }}> Web-Team</span>
+                                        color: "red",
+                                        cursor: "pointer"
+                                    }}> Web-Team</span>
                             </span>
                         </strong>. All Rights Reserved
                     </div>
@@ -99,70 +105,71 @@ const Footer = () => {
                 </div>
                 {/* <Button color="danger" onClick={toggle}>Web Team</Button> */}
                 <Modal isOpen={modal} toggle={toggle} style={{
-    marginTop: 100,
-    background: '#ffffff10',
-    boxShadow: '0 8px 32px 0 rgba(31, 38, 135, 0.37)',
-    backdropFilter: 'blur(10px)', 
-    webkitBackdropFilter: 'blur(4px)', 
-    borderRadius: '15px'  }}>
-    
+                    marginTop: 100,
+                    background: '#ffffff10',
+                    boxShadow: '0 8px 32px 0 rgba(31, 38, 135, 0.37)',
+                    backdropFilter: 'blur(10px)',
+                    webkitBackdropFilter: 'blur(4px)',
+                    borderRadius: '15px'
+                }}>
+
                     <ModalHeader toggle={toggle}>DEVELOPERS</ModalHeader>
                     <ModalBody>
-                      
+
                         <a
                             href="https://www.linkedin.com/in/jayanth-puthalapattu/"
                             style={{
-                            color: "blue"
-                        }}>JAYANTH PUTHALAPATTU,</a>
+                                color: "blue"
+                            }}>JAYANTH PUTHALAPATTU,</a>
                         <span>FULL STACK DEV</span>
-                        <br/>
+                        <br />
                         <a
                             href="https://gracious-williams-9a607a.netlify.app/?#"
                             style={{
-                            color: "blue"
-                        }}>NSR JYOTHISH CHANDRA,</a>
+                                color: "blue"
+                            }}>NSR JYOTHISH CHANDRA,</a>
                         <span>MERN STACK DEV</span>
-                        <br/>
+                        <br />
                         <a
                             href="https://portfolio-shanu.netlify.app/"
                             style={{
-                            color: "orange"
-                        }}> SHANAWAZ BAIG,</a>
+                                color: "orange"
+                            }}> SHANAWAZ BAIG,</a>
                         <span>FULL STACK DEV</span>
-                        <br/>
+                        <br />
 
                         <a
                             href="https://www.linkedin.com/in/sai-vivek-chandika-ab5247230"
                             style={{
-                            color: "orange"
-                        }}>SAI VIVEK CHANDIKA,</a>
+                                color: "orange"
+                            }}>SAI VIVEK CHANDIKA,</a>
                         <span>FULL STACK DEV</span>
-                        
-                        <br/>
+
+                        <br />
                         <a
                             href="https://www.linkedin.com/in/ssreedhargoud"
                             style={{
-                            color: "orange"
-                        }}> S SREEDHAR GOUD,</a>
+                                color: "orange"
+                            }}> S SREEDHAR GOUD,</a>
                         <span>FULL STACK DEV</span>
-                        <br/>
+                        <br />
 
                         <a
                             href="https://www.linkedin.com/in/gowtham-t-168892258/"
                             style={{
-                            color: "red"
-                        }}>T GOWTHAM SREE,</a>
+                                color: "red"
+                            }}>T GOWTHAM SREE,</a>
                         <span>FULL STACK DEV</span>
-                        
-                        <br/>
-                        
-                        
-                        
-                        
+
+                        <br />
+
+
+
+
 
                     </ModalBody>
                     <ModalFooter>
-                      
+
                         <Button color="secondary" onClick={toggle}>Cancel</Button>
                     </ModalFooter>
                 </Modal>
