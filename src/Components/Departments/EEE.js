@@ -159,7 +159,7 @@ Power Electronic devices considering the environmental and societal needs.<br/>
                     <tbody>
                         <tr>
                             <th>HOD</th>
-                            <td>Prof. G. Srinivasulu (Incharge Head) </td>
+                            <td>Dr. J.N. ChandraSekhar </td>
                         </tr>
                         <tr>
                             <th>Chairman BOS(PG)</th>

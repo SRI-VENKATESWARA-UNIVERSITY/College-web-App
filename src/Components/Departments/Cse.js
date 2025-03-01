@@ -127,7 +127,7 @@ const Cse = () => {
                         <tbody>
                             <tr>
                                 <th>HOD</th>
-                                <td>Prof .Ch .D .V . Subba Rao</td>
+                                <td>Dr. D. Vivekananda Reddy</td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(PG)</th>
