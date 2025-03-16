@@ -6,7 +6,7 @@ const Che=()=>{
         <Container>
             <Row>
                 <Col>
-                <h1 className="section-title">Chemical Enggineering</h1>
+                <h1 className="section-title">Chemical Engineering</h1>
 
                 <h3 style={{textAlign:"center"}}>
       <a style={{textDecoration:'underline'}} href="https://svuniversity.edu.in/departments_engg/chemical-engineering">
