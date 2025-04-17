@@ -112,7 +112,7 @@ const Ece = () => {
                                     ) : (
                                         <>
                                             <td>
-                                                <a href={details.Details}>Details</a>
+                                                <a target="_blank" href={details.Details}>Bio Data</a>
                                             </td>
                                         </>
                                     )}

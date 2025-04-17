@@ -4,7 +4,7 @@ export const EceFaculty = [
         "Name" :"Prof. S. Narayana Reddy",
         "Phone":"(+91)-9848927815",
         "Email" :"snreddysvu@yahoo.com",
-        "Details" :"/EceFiles/ECE_Prof_SNarayanaReddy.pdf"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/404865"
     },
     {
         "designation" : "Professor",
