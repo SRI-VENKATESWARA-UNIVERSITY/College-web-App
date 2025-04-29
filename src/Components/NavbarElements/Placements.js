@@ -1,7 +1,7 @@
 import { Container, Table ,Row, Col,Card, CardText, CardBody,
   CardTitle, CardSubtitle} from "reactstrap";
 import  {PlacementsInfo} from "../../assets/DBStatic/PlacementsInfo"
-import { alignPropType } from "react-bootstrap/esm/DropdownMenu";
+// import { alignPropType } from "react-bootstrap/esm/DropdownMenu";
   const Placements = () =>{
   return(
       <Container> 

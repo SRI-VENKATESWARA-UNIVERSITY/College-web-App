@@ -57,7 +57,7 @@ export const CivFaculty = [
         "Name" :"Dr. B. Madhusudhana Reddy",
         "Phone":"	(+91)-9492657516",
         "Email" :"	srinimasa@gmail.com",
-        "Details" :"/CivFiles/CIV_Sri_BMadhusudhanaReddy.pdf"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/591869"
     },
     {
         "designation" : "Associate Professor",

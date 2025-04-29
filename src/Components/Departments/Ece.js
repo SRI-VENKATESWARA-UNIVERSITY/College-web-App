@@ -72,11 +72,12 @@ const Ece = () => {
             <Row>
                 <Col>
                     <h2 style={{ width: "80%", margin: "auto" }}>Faculty Details</h2>
+
                     <Table style={{ width: "80%", margin: "auto" }} responsive bordered>
                         <tbody>
                             <tr>
                                 <th>HOD</th>
-                                <td>Prof. S. Swarnalatha </td>
+                                <td>Prof. S. Swarnalatha</td>
                             </tr>
                             <tr>
                                 <th>Chairman BOS(PG)</th>
@@ -88,7 +89,13 @@ const Ece = () => {
                             </tr>
                         </tbody>
                     </Table>
-                    <Table style={{ width: "80%", margin: "auto", marginTop: 20 }} hover responsive bordered>
+
+                    <Table
+                        style={{ width: "80%", margin: "auto", marginTop: 20 }}
+                        hover
+                        responsive
+                        bordered
+                    >
                         <thead>
                             <tr>
                                 <th>Designation</th>
@@ -100,32 +107,27 @@ const Ece = () => {
                         </thead>
                         <tbody>
                             {EceFaculty.map((details, index) => (
-                                <tr>
+                                <tr key={index}>
                                     <td>{details.designation}</td>
                                     <td>{details.Name}</td>
                                     <td>{details.Phone}</td>
                                     <td>{details.Email}</td>
-                                    {details.Details === "NA" ? (
-                                        <>
-                                            <td> NA </td>
-                                        </>
-                                    ) : (
-                                        <>
-                                            <td>
-<<<<<<< HEAD
-                                                <a target="_blank" href={details.Details}>Bio Data</a>
-=======
-                                                <a target="_blank "href={details.Details}>Bio Data</a>
->>>>>>> 2ec190dbeb6b384d6fd4a70e7ec81696e813cc89
-                                            </td>
-                                        </>
-                                    )}
+                                    <td>
+                                        {details.Details === "NA" ? (
+                                            "NA"
+                                        ) : (
+                                            <a target="_blank" href={details.Details} rel="noreferrer">
+                                                Bio Data
+                                            </a>
+                                        )}
+                                    </td>
                                 </tr>
                             ))}
                         </tbody>
                     </Table>
                 </Col>
             </Row>
+
         </Container>
     );
 };

@@ -132,8 +132,15 @@ const Che=()=>{
                <td>{details.designation}</td>
                <td>{details.Name}</td>
                <td>{details.Phone}</td>
-               <td>{details.Email}</td>
-             {details.Details==="NA" ? (<><td>NA</td></>):(<><td><a href={details.Details} >Details</a></td></>)}  
+               <td>
+                            {details.Details === "NA" ? (
+                                "NA"
+                            ) : (
+                                <a target="_blank" href={details.Details} rel="noreferrer">
+                                    Bio Data
+                                </a>
+                            )}
+                        </td>
                </tr>
            ))}
         

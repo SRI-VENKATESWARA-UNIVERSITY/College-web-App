@@ -11,7 +11,7 @@ export const EceFaculty = [
         "Name" :"Prof. R.V.S. Satyanarayana",
         "Phone":"	(+91)-9246204470",
         "Email" :"v.s.ravinutala@gmail.com",
-        "Details" :"https://vidwan.inflibnet.ac.in//profile/404865"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/615537"
     },
     {
         "designation" : "Professor",
