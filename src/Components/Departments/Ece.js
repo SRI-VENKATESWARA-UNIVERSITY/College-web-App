@@ -112,7 +112,11 @@ const Ece = () => {
                                     ) : (
                                         <>
                                             <td>
+<<<<<<< HEAD
                                                 <a target="_blank" href={details.Details}>Bio Data</a>
+=======
+                                                <a target="_blank "href={details.Details}>Bio Data</a>
+>>>>>>> 2ec190dbeb6b384d6fd4a70e7ec81696e813cc89
                                             </td>
                                         </>
                                     )}
