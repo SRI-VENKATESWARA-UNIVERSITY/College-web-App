@@ -8,7 +8,8 @@
     "clg": "college-webapp",
     "staging": "college-webapp",
     "College app ": "college-webapp",
-    "Clgapp": "college-webapp"
+    "Clgapp": "college-webapp",
+    "clgapp1": "college-webapp"
   },
   "targets": {},
   "etags": {},

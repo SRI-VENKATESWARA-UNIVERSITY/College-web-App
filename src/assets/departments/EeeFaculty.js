@@ -43,13 +43,6 @@ export const EeeFaculty = [
         "Email" :"	chandu.jinka@gmail.com",
         "Details" :"https://svuniversity.irins.org/profile/517442"
     },
-    {
-        "designation": "Academic Consultant",
-        "Name": "P. Dinakara Prasad Reddy",
-        "Phone": "(+91)-9395112112",
-        "Email": "NA", 
-        "Details": "/EeeFiles/Dr.P.Dinakara Prasad  Reddy - EEE.pdf"
-      },
       {
         "designation": "Academic Consultant",
         "Name": "Chella Hari Prasad",
@@ -101,16 +94,10 @@ export const EeeFaculty = [
       },
       {
         "designation": "Academic Consultant",
-        "Name": "T. Neeraja", 
-        "Phone": "(+91)-7989696753",
-        "Email": "NA",
-        "Details": "/EeeFiles/Neeraja - EEE.pdf"
+        "Name": "Mr.M.Gopi SivaPrasad", 
+        "Phone": "(+91)-7893247518",
+        "Email": "yadav.eps@gmail.com",
+        "Details": "https://svuniversity.irins.org/profile/591305"
       },
-      {
-        "designation": "Academic Consultant",
-        "Name": "Y. Pavani", 
-        "Phone": "(+91)-9959274569",
-        "Email": "pavani716@gmail.com", 
-        "Details": "/EeeFiles/pavani_EEE.pdf"
-      },
+
 ]
