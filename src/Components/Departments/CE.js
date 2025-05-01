@@ -128,7 +128,7 @@ const CE = () => {
                                 <th>Name</th>
                                 <th>Phone</th>
                                 <th>Email</th>
-                                <th>Details</th>
+                                <th>Bio Data</th>
                             </tr>
                         </thead>
                         <tbody>

@@ -5,14 +5,14 @@ export const CheFaculty = [
         "Name" :"Dr. P. Akhila Swathantra",
         "Phone":"(+91)-9492549980",
         "Email" :"drpakhila@gmail.com",
-        "Details" :"/chemfiles/akhila profile.docx"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/592082"
     },
     {
         "designation" : "Professor",
         "Name" :"Dr. B. Sarath Babu",
         "Phone":"(+91)-9849568083",
         "Email" :"Bsarathbau75@gmail.com",
-        "Details" :"/chemfiles/BSB Profile.docx"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/615776"
     },
     {
     "designation": "Academic Consultant",
