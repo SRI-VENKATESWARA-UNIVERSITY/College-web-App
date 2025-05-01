@@ -97,14 +97,14 @@ export const MeFaculty = [
     "designation": "Academic Consultant",
     "Name": "P. Gopi",
     "Phone": "(+91)-9704401684",
-    "Email": "NA",
+    "Email": "gopipadaveti.81@gmail.com",
     "Details": "https://svuniversity.irins.org/profile/590922"
   },
   {
     "designation": "Academic Consultant",
     "Name": "B. Raghavendra Prasad NAYAK",
     "Phone": "(+91)-9849470877",
-    "Email": "NA",
+    "Email": "raghu536@gmail.com",
     "Details": "https://svuniversity.irins.org/profile/590895"
   },
   {
