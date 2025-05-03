@@ -102,7 +102,7 @@ const Ece = () => {
                                 <th>Name</th>
                                 <th>Phone</th>
                                 <th>Email</th>
-                                <th>Details</th>
+                                <th>Profile</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -117,7 +117,7 @@ const Ece = () => {
                                             "NA"
                                         ) : (
                                             <a target="_blank" href={details.Details} rel="noreferrer">
-                                                Bio Data
+                                                Profile
                                             </a>
                                         )}
                                     </td>

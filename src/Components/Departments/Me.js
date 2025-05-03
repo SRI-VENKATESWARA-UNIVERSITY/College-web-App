@@ -159,7 +159,7 @@ const Me = () => {
                                     <th>Name</th>
                                     <th>Phone</th>
                                     <th>Email</th>
-                                    <th>Bio Data</th>
+                                    <th>Profile</th>
                                 </tr>
                             </thead>
                             <tbody>
@@ -175,7 +175,7 @@ const Me = () => {
                                                 "NA"
                                             ) : (
                                                 <a target="_blank" href={details.Details} rel="noreferrer">
-                                                    Bio Data
+                                                    profile
                                                 </a>
                                             )}
                                         </td>

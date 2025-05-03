@@ -156,7 +156,7 @@ const Navba = () => {
                                                     <li className="drop-down">
                                                         <a >B.Tech</a>
                                                         <ul>
-                                                                 <li><a href="/#">B.Tech 1st Semester</a></li>
+                                                                 <li><a href="/academics/time/eeetime.pdf">EEE Time table</a></li>
                                                                  <li><a href="/#">B.Tech 2nd Semester</a></li>
                                                                  <li><a href="/#">B.Tech 3nd Semester</a></li>
                                                                  <li><a href="/#">B.Tech 4th Semester</a></li>

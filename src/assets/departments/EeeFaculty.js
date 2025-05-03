@@ -32,7 +32,7 @@ export const EeeFaculty = [
   {
     "designation": "Associate Professor",
     "Name": "Dr. V. Usha Reddy",
-    "Phone": "(+91)-9441116445, (+91)-877-2249988",
+    "Phone": "(+91)-9441116445",
     "Email": "vyza_ushareddy@yahoo.co.in",
     "Details": "https://svuniversity.irins.org/profile/462957"
   },

@@ -2,7 +2,7 @@ export const MeFaculty = [
   {
     "designation": "Professor",
     "Name": "Dr. G. Bhanodaya Reddy (Leave on loss of Pay)",
-    "Phone": "(+91)-9848175066, (+91)-877-2288200",
+    "Phone": "(+91)-9848175066",
     "Email": "bhanodayareddy_svuce@yahoo.co.in",
     "Details": "NA"
   },

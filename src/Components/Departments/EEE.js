@@ -186,7 +186,7 @@ const EEE = () => {
                             <th>Name</th>
                             <th>Phone</th>
                             <th>Email</th>
-                            <th>Bio data</th>
+                            <th>Profile</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -202,7 +202,7 @@ const EEE = () => {
                                         "NA"
                                     ) : (
                                         <a target="_blank" href={details.Details} rel="noreferrer">
-                                            Bio Data
+                                            Profile
                                         </a>
                                     )}
                                 </td>

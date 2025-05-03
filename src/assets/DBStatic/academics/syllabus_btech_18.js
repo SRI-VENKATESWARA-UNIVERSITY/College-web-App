@@ -10,7 +10,7 @@ export const Syllabus_btech_18 = [
     }, {
         "BRANCH" : "ELECTRICAL & ELECTRONICS ENGINEERING",
         "Filename": "EEE R18 SYLLABUS",
-        "location": "NA"
+        "location": "/academics/eeesyllabus.pdf"
     }, {
         "BRANCH" : "ELECTRONICS AND COMMUNICATION ENGINEERING",
         "Filename": "ECE R18 SYLLABUS",

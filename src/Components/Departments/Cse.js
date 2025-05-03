@@ -154,7 +154,7 @@ const Cse = () => {
                                 <th>Name</th>
                                 <th>Phone</th>
                                 <th>Email</th>
-                                <th>Details</th>
+                                <th>Profile</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -170,7 +170,7 @@ const Cse = () => {
                                             "NA"
                                         ) : (
                                             <a target="_blank" href={details.Details} rel="noreferrer">
-                                                Bio Data
+                                                Profile
                                             </a>
                                         )}
                                     </td>

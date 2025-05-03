@@ -4,7 +4,7 @@ export const cseFaculty =[
 {
     "designation" : "Professor",
     "Name" :"Dr. Ch.D.V. Subba Rao",
-    "Phone":"(+91)-9849879861, (+91)-877-2248930",
+    "Phone":"(+91)-9849879861",
     "Email" :"subbarao_chdv@hotmail.com",
     "Details" :"https://svuniversity.irins.org/profile/"
 },
