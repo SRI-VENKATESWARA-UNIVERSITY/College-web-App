@@ -20,7 +20,7 @@ const Me = () => {
                             className="card-img-top"
                             alt="..." />
                         <br />
-                        <a style={{ textDecoration: 'underline' }} href="https://svuniversity.edu.in/storage/2023/02/Mechanical.pdf">
+                        <a style={{ textDecoration: 'underline' }} target="blank" href="/mech/BROUCHER_ME.pdf">
                             <b>Download Department brochure </b>
                         </a>
                     </div>

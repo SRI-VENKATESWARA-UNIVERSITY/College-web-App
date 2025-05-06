@@ -1,27 +1,23 @@
 import { Container, Row, Col, Card, CardBody, CardTitle } from "reactstrap";
 
-const Calendar = () => {
+const ExamTimeTable = () => {
   const calendarData = [
     {
       year: "2024-2025",
       course:"B.Tech",
-      file: "https://drive.google.com/file/d/1OU7FOXdWTSs0mMs7Ntgk3zw8jamu2bk5/view?usp=sharing",
+      file: "/academics/exam/Examinations_Schedules _2024- 2025.jpeg",
     },
     {
       year: "2023-2024",
       course:"B.Tech",
-      file: "https://drive.google.com/file/d/1eeSWTqbtXq-UTfkFXcsJkaKAW7jjDWNw/view?usp=sharing",
+      file: "/academics/exam/Examinations_Schedules_2023- 2024.jpeg",
     },
     {
       year: "2022-2023",
       course:"B.Tech",
-      file: "https://drive.google.com/file/d/1K7n9gCNifwR_HjVKOh-Ku9W3KVqO17td/view?usp=sharing",
+      file: "/academics/exam/Examinations_Schedules_2022- 2023.jpeg",
     },
-    {
-      year: "2022-2025",
-      course:"M.Tech",
-      file: "https://drive.google.com/file/d/1LAN6yCx-AfsXBLvUzfvp5JIf_ftDRA_5/view?usp=sharing",
-    },
+    
   ];
 
   return (
@@ -31,7 +27,7 @@ const Calendar = () => {
           <Col sm="6" md="4" lg="3" key={index} className="mb-4">
             <Card>
               <CardBody>
-                <CardTitle tag="h5">Academic Calendar</CardTitle>
+                <CardTitle tag="h5">Examination Schedule</CardTitle>
                 <p>{item.year}</p>
                 <p>{item.course}</p>
                 <a href={item.file} download>
@@ -46,4 +42,4 @@ const Calendar = () => {
   );
 };
 
-export default Calendar;
+export default ExamTimeTable;

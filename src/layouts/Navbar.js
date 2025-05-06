@@ -70,6 +70,9 @@ const Navba = () => {
                                     <li>
                                         <a href="/calender">Academic Calendar</a>
                                     </li>
+                                    <li>
+                                        <a href="/examtime">Examination Schedule</a>
+                                    </li>
 
                                     <li className="drop-down">
                                         <a href="/academic_regulations">
@@ -91,6 +94,7 @@ const Navba = () => {
                                             </li>
                                         </ul>
                                     </li>
+
                                     <li className="drop-down">
                                         <a href="/#">Syllabus</a>
                                         <ul>

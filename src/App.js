@@ -34,6 +34,7 @@ import about from './Components/NavbarElements/About/about';
 import viceprincipal from './Components/NavbarElements/About/viceprincipal';
 import timetables from './Components/NavbarElements/Academics/TimeTables';
 import calender from './Components/NavbarElements/Academics/Academic_calender';
+import ExamTimeTable from './Components/NavbarElements/Academics/ExamTimeTable.js';
 // import WebTeam from './Components/Credits/WebTeam';
 import NotFound from './layouts/NotFound';
 // App.js
@@ -71,6 +72,7 @@ function App() {
               <Route path="/placements" component={Placements}/>
               <Route path="/courses_offered" component={CoursesOffered}/>
               <Route path="/calender" component={calender}/>
+              <Route path="/examtime" component={ExamTimeTable}/>
               <Route path="/timetables" component={timetables}/>
               <Route path="/hostels" component={MensHostel}/>
               <Route path="/library" component={Library}/>

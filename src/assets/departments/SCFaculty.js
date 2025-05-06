@@ -10,45 +10,45 @@ export const SCFaculty = [
         "designation" : "Acedemic consultant(Mathematics)",
         "Name" :"Dr .R.L.V Renuka Devi",
         "Phone":"(+91)-9441654788",
-        "Email" :"NA",
-        "Details" :"/SCfiles/renukadevi.pdf"
+        "Email" :"rlvrenukadevi@gmail.com",
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591057"
     },
     {
         "designation" : "Academic Consultant(Mathematics)",
         "Name" :"Dr . Y . Swapna",
-        "Phone":"(+91)-94906601773",
-        "Email" :"NA",
-        "Details" :"/SCfiles/swapna.pdf"
+        "Phone":"(+91)-9398638653",
+        "Email" :"swapnaanand33@gmail.com",
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591060"
     },
   
     {
         "designation" : "Academic Consultant(Mathematics)",
         "Name" :"Dr.Y.Rajesh Yadav",
-        "Phone":"NA",
-        "Email" :"NA",
-        "Details" :"/SCfiles/rajesh.pdf"
+        "Phone":"9966608440",
+        "Email" :"drrajeshmaths@gmail.com",
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591272"
     },
     
     {
         "designation" : "Academic Consultant(Physics)",
         "Name" :"Dr.P Chandra Shekhar",
-        "Phone":"(+91)-9492562822",
-        "Email" :"NA",
-        "Details" :"/SCfiles/cs.pdf"
+        "Phone":"(+91)-9441654788",
+        "Email" :"chandrasekhar.phd@gmail.com",
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/454152"
     },
     {
         "designation" : "Academic Consultant(Physics)",
         "Name" :"M.Hari Prasad Reddy",
         "Phone":"(+91)-9440200085",
         "Email" :"hari.phys@gmail.com",
-        "Details" :"/SCfiles/NBA_Faculty profile_MHR_Physics.docx"
+        "Details" :"https://vidwan.inflibnet.ac.in//profile/591068"
     },
     {
         "designation" : "Acedemic Consultant(Chemistry)",
-        "Name" :"Dr. Rekha",
+        "Name" :"Dr Dasari Rekha",
         "Phone":"(+91)-9704567500",
         "Email" :"NA",
-        "Details" :"/SCfiles/"
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591319"
     },
     // {
     //     "designation" : "Academic Consultant(English)",
@@ -57,28 +57,28 @@ export const SCFaculty = [
     //     "Email" :"pothanprathap@gmail.com",
     //     "Details" :"/SCfiles/pothanprathap.pdf"
     // },
-     {
-        "designation" : "Academic Consultant(English)",
-        "Name" :"Dr A Sreenivasulu",
-        "Phone":"NA",
-        "Email" :"NA",
-        "Details" :"/SCfiles/a.sreenivsulu.docx"
-    }, 
+    
     {
         "designation" : "Academic Consultant(Commerce)",
         "Name" :"Dr Morusu Sivashankar",
         "Phone":"(+91)-9985312506",
-        "Email" :"NA",
-        "Details" :"/SCfiles/M SIVA SANKAR.docx"
+        "Email" :"sivasankar.morusu@gmail.com",
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591098"
     },
      {
         "designation" : "Academic Consultant(Economics)",
         "Name" :"Dr.S.Siva Prasad",
         "Phone":"(+91)-9848354024",
         "Email" :"spreddy71@gmail.com",
-        "Details" :"/SCfiles/sivaprasad.pdf"
+        "Details" :"https://vidwan.inflibnet.ac.in/profile/591077"
     },
-    
+    {
+        "designation" : "Academic Consultant(English)",
+        "Name" :"Dr A Sreenivasulu",
+        "Phone":"NA",
+        "Email" :"NA",
+        "Details" :"/SCfiles/a.sreenivsulu.docx"
+    }, 
     
     
 

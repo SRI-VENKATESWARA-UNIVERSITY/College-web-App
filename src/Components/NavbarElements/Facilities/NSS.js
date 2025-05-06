@@ -6,7 +6,7 @@ const NSS = () =>{
           <Row>
               <Col>
               <h3 style={{borderBottom:"2px solid #f03c02",paddingTop:50}}>National Service Scheme</h3> 
-              <p>Sri Venkateswara University carries rightly the pride for having been one of thepioneering institutions in implanting the N.S.S. in the country. It was introducedduring 1969-70. Starting with 300 volunteers, it has grown into a mighty programmewith about 40,000 Volunteers for regular NSS and special camping programmes.</p>
+              <p>Sri Venkateswara University College of Engineering, Tirupati carries rightly the pride for having been one of the pioneering institution in implanting the N.S.S. It was introducedduring 1969-70.</p>
 
    
               <h4 style={{paddingTop:20}}>Objectives</h4>
@@ -18,12 +18,11 @@ const NSS = () =>{
                   <li>To acquire leadership qualities and democratic attitude.</li>
                   <li>To practice National integration</li>
               </ul>
-              <h4 style={{paddingTop:20}}>NSS Center</h4>
-              <p>The NSS Bureau is located at NSS Bhavan near the Administration Building (NeelamSanjeeva Reddy Bhavan).</p>
-              <h4 style={{paddingTop:20}}>NSS Programme Officers</h4>
-              <p>260 NSS Programme Officers are there in Engineering, Degree and Junior Collegesof S.V. University area.</p>
+              
+              <h4 style={{paddingTop:20}}>NSS Programme Officer</h4>
+              <p>NSS Programme Officer was appointed by the principal of the college at present Dr. A Sreeneivasulu Reddy, Associate Professor Department of Mechanical Engineering is acting as college NSS Officer.</p>
               <h4 style={{paddingTop:20}}>Admission</h4>
-              <p>Students who wish to join NSS should apply to the Programme Officer concerned intheir respective Colleges.</p>
+              <p>Students who wish to join NSS should apply to the Programme Officer of the college.</p>
               <h4 style={{paddingTop:20}}>Activity</h4>
               <p>NSS volunteers will have the following activity</p>
               <ul>
@@ -40,13 +39,9 @@ Volunteers are provided with refreshment whenever they work.</li>
                   </li>
                   <li>Bonafide N.S.S. Certificates are given to volunteers who have been involved in generalregular N.S.S. for 2 Years</li>
                   <li>
-                  For volunteers who attend National Integration Camps, Inter State Camps, Inter Campson deputation, are given University certificate by the organisers of the camp. Thesecertificates are given priority II and considered in P.G. admissions.
+                  For volunteers who attend National Integration Camps, Inter State Camps, Inter Campson deputation, are given University certificate by the organisers of the camp.
                   </li>
               </ul>
-              <h4 style={{borderBottom:"2px solid #f03c02",paddingTop:20}}>Benefits</h4> 
-              <p>
-              In P.G. Admissions, M.B.A., M.C.A. and other courses there are reservations (5%)under E.C.A. Quota for N.S.S. Volunteers on par with N.C.C. & Sports and culturalactivities.
-              </p>
               
               </Col>
           </Row>

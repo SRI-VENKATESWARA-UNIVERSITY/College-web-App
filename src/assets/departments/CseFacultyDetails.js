@@ -13,7 +13,7 @@ export const cseFaculty =[
     "Name" :"Dr. M. Humera Khanam",
     "Phone":"(+91)-9490923045, 08772248810",
     "Email" :"humera.svec@gmail.com",
-    "Details" :"https://svuniversity.irins.org/profile/"
+    "Details" :"https://vidwan.inflibnet.ac.in//profile/621268"
 },
 {
   "designation" : "Professor",
