@@ -6,7 +6,7 @@ export const Syllabus_mtech = [
     }, {
         "BRANCH" : "CIVIL ENGINEERING",
         "Filename": "CE R23 SYLLABUS",
-        "location": "NA"
+        "location": "/academics/CE_M.Tech_R-23_SYLLABUS.pdf"
     }, {
         "BRANCH" : "ELECTRICAL & ELECTRONICS ENGINEERING",
         "Filename": "EEE R23 SYLLABUS",
