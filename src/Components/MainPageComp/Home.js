@@ -106,7 +106,7 @@ The official Alumni Network of SVU College Of Engineering website is <a href="sv
      <Container style={{ backgroundColor: 'lightblue',paddingTop:6 }}>
   <Row>
     <Col>
-    <h5> <a href="/assets/SVUCE_Faculty List (2022-23 to 2024-25).pdf">SVUCE Faculty List(2022-23 to 2024-25) link</a>
+    <h5> <a href="/assets/SVUCE_Faculty List (2022-23 to 2024-25).pdf" target="blank">SVUCE Faculty List(2022-23 to 2024-25) link</a>
 </h5>
     </Col>
   </Row>
@@ -118,7 +118,7 @@ The official Alumni Network of SVU College Of Engineering website is <a href="sv
 
    
    
-/</main>
+</main>
    </div>
   )
 }

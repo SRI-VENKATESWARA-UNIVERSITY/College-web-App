@@ -23,7 +23,7 @@ const CE = () => {
                             className="card-img-top"
                             alt="Electrical and Electronics Engineering" />
                         <br />
-                        <a style={{ textDecoration: 'underline' }} href="https://svuniversity.edu.in/storage/2023/02/CIVIL.pdf">
+                        <a style={{ textDecoration: 'underline' }} href="#">
                             <b>Download Department brochure </b>
                         </a>
                     </div>
@@ -128,7 +128,7 @@ const CE = () => {
                                 <th>Name</th>
                                 <th>Phone</th>
                                 <th>Email</th>
-                                <th>Profiles</th>
+                                <th>Profile</th>
                             </tr>
                         </thead>
                         <tbody>

@@ -24,7 +24,7 @@ const EEE = () => {
                             className="card-img-top"
                             alt="Electrical and Electronics Engineering" />
                         <br />
-                        <a style={{ textDecoration: 'underline' }} href="https://svuniversity.edu.in/storage/2023/02/EEE.pdf">
+                        <a style={{ textDecoration: 'underline' }} href="#">
                             <b>Download Department brochure </b>
                         </a>
                     </div>

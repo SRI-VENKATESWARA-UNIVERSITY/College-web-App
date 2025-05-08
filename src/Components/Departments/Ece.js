@@ -24,9 +24,14 @@ const Ece = () => {
                             alt="Electrical and Electronics Engineering"
                         />
                         <br />
-                        <a style={{ textDecoration: 'underline' }} href="https://svuniversity.edu.in/storage/2023/02/ECE.pdf">
+                        <a style={{ textDecoration: 'underline' }} href="/EceFiles/ECE_Broucher_2022.pdf" target="_blank" rel="noreferrer">
                             <b>Download Department brochure </b>
                         </a>
+                        <br />
+                        <a style={{ textDecoration: 'underline' }} href="/EceFiles/B.Tech_(ECE)_Courses _Lecture _Material.pdf" target="_blank" rel="noreferrer">
+                            <b>B.Tech (ECE) Courses  Lecture  Material </b>
+                        </a>
+                        <br />
                     </div>
                     <h2>Vision</h2>
                     To be a lead department imparting quality and value embedded higher education and research emphasizing freedom of learning and practice.
