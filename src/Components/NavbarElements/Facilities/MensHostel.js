@@ -77,9 +77,9 @@ const MensHostel = () => {
                                 <th>Principal</th>
                                 <td>(+91)-877-2289341, (+91)-877-2289561(O)</td>
                             </tr>
-                                <th>Warden - Prof. M. Damodar Reddy</th>
-                                <td>(+91)-9885428847</td>
-                                <td>EMAIL : mdreddy999@rediffmail.com</td>
+                                <th>Warden - Dr. Ch.D.V. Subba Rao</th>
+                                <td>(+91)-9849879861</td>
+                                <td>EMAIL : subbarao_chdv@hotmail.com</td>
                             <tr>
                                 <th>Hostel Office</th>
                                 <td>
